@@ -5,8 +5,6 @@ tags:
 
 ---
 
-# NLP project2 Q2(3)
-
 ——how to apply LLMs in specific domains like clinic/law/finance
 
 ### Thoughts
