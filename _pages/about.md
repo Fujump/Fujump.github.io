@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Qiang Hu
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+title: about
+permalink: Qiang Hu
+subtitle: <a href='https://www.sustech.edu.cn/'>Southern University of Science and Technology</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>ShenZhen, China 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
