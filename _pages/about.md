@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: Qiang Hu
+permalink: /
 subtitle: <a href='https://www.sustech.edu.cn/'>Southern University of Science and Technology</a>. Address. Contacts. Moto. Etc.
 
 profile:
