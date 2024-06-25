@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate of DS @ <a href='https://www.sustech.edu.cn/'>Southern University of Science and Technology</a>. 
+subtitle: Undergraduate of DS @ <a href='https://www.sustech.edu.cn/'>Southern University of Science and Technology</a>.
 
 profile:
   align: right
