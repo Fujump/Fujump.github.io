@@ -5,6 +5,9 @@ github_users:
 
 github_repos:
   - Fujump.github.io
+  - cs102A-project
+  - picl
+  - rff-project
   # - twbs/bootstrap
   # - jekyll/jekyll
   # - jquery/jquery

@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: QiangHu
     - name: Date of Birth
-      value: 14th March 1879
+      value: 28th May 2004
     - name: Languages
-      value: English, German
+      value: Mandarin, English
 
 - title: Education
   type: time_table
@@ -71,27 +71,25 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Provincial third prize of Chinese Physics Olympiad(CPhO)
+    - year: 2022, 2023
       items:
-        - Max Planck Medal
+        - Second prize for outstanding students(School level)
+
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine learning.
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Membership inference attack(MIA), Machine Unlearning
+    - title: LLM.
       items:
-        - Description 1.
-        - Description 2.
+        - ICL, RAG, Agent, Privacy
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Sports(Badminton, table tennis, Hiking, cycling), Video game(Genshin Immpact) Food, travel, KTV, etc.
