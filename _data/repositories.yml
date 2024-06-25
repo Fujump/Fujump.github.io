@@ -4,10 +4,9 @@ github_users:
   # - alshedivat
 
 github_repos:
-  - Fujump.github.io
-  - cs102A-project
-  - picl
-  - rff-project
+  - Fujump/cs102A-project
+  - Fujump/picl
+  - Fujump/rff-project
   # - twbs/bootstrap
   # - jekyll/jekyll
   # - jquery/jquery
