@@ -8,6 +8,21 @@ category: work
 related_publications: true
 ---
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Viewer</title>
+</head>
+<body>
+    <h1>My PDF Document</h1>
+    <iframe src="assets/pdf/SAS-Airbnb.pdf" width="100%" height="600px">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="path/to/your/document.pdf">Download PDF</a>.
+    </iframe>
+</body>
+</html>
+
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
