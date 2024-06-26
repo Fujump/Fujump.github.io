@@ -14,10 +14,44 @@ related_publications: true
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PDF Viewer</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.min.js"></script>
+    <style>
+        #pdf-viewer {
+            width: 100%;
+            height: 600px;
+            border: 1px solid #000;
+        }
+    </style>
 </head>
 <body>
     <h1>My PDF Document</h1>
-    <embed src="../assets/pdf/SAS-Airbnb.pdf" type="application/pdf" width="100%" height="600px" />
+    <canvas id="pdf-viewer"></canvas>
+    <script>
+        var url = '../assets/pdf/SAS-Airbnb.pdf';
+
+        // Load PDF.js
+        var loadingTask = pdfjsLib.getDocument(url);
+        loadingTask.promise.then(function(pdf) {
+            // Fetch the first page
+            pdf.getPage(1).then(function(page) {
+                var scale = 1.5;
+                var viewport = page.getViewport({scale: scale});
+
+                // Prepare canvas using PDF page dimensions
+                var canvas = document.getElementById('pdf-viewer');
+                var context = canvas.getContext('2d');
+                canvas.height = viewport.height;
+                canvas.width = viewport.width;
+
+                // Render PDF page into canvas context
+                var renderContext = {
+                    canvasContext: context,
+                    viewport: viewport
+                };
+                page.render(renderContext);
+            });
+        });
+    </script>
 </body>
 </html>
 
