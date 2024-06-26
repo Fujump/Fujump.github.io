@@ -17,9 +17,7 @@ related_publications: true
 </head>
 <body>
     <h1>My PDF Document</h1>
-    <iframe src="assets/pdf/SAS-Airbnb.pdf" width="100%" height="600px">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="path/to/your/document.pdf">Download PDF</a>.
-    </iframe>
+    <embed src="../assets/pdf/SAS-Airbnb.pdf" type="application/pdf" width="100%" height="600px" />
 </body>
 </html>
 
