@@ -88,10 +88,10 @@
   contents:
     - title: Machine learning.
       items:
-        - Membership inference attack(MIA), Machine Unlearning
+        - Membership inference attack(MIA), Machine Unlearning.
     - title: LLM.
       items:
-        - ICL, RAG, Agent, Privacy
+        - ICL, RAG, Agent, Privacy.
 
 - title: Other Interests
   type: list
