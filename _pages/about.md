@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>1088 Xueyuan Avenue, Shenzhen</p>
     <p>518055, P.R. China</p>
+    <p>email: 12111214@mail.sustech.edu.cn</p>
 
 news: true # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
