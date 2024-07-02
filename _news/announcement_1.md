@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am looking for PhD positon in 25fall!
+I am actively looking for PhD positon in 25fall!
