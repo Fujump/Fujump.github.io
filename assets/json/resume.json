@@ -42,7 +42,7 @@
       "startDate": "2021-09-01",
       "endDate": "present",
       "summary": "The accumulated of the Shenzhen volunteer is more than 110h, and the service content includes assisting in various competitions, conferences, training, public welfare activities, etc"
-      }
+    }
   ],
   "education": [
     {
@@ -84,26 +84,13 @@
       "name": "Knowledge(by course)",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Machine learning",
-        "Database",
-        "Operational research and optimization",
-        "CV",
-        "NLP",
-        "Distributed system and parallel computing"
-      ]
+      "keywords": ["Machine learning", "Database", "Operational research and optimization", "CV", "NLP", "Distributed system and parallel computing"]
     },
     {
       "name": "Programing Language",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python(Pytorch, Spark)",
-        "Java",
-        "Bash",
-        "SAS",
-        "Matlab"
-      ]
+      "keywords": ["Python(Pytorch, Spark)", "Java", "Bash", "SAS", "Matlab"]
     }
   ],
   "languages": [
@@ -122,13 +109,7 @@
     {
       "name": "ML, LLMs",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Trustworthy AI",
-        "Efficient AI",
-        "Membership inference attack",
-        "In-context learning",
-        "RAG"
-      ]
+      "keywords": ["Trustworthy AI", "Efficient AI", "Membership inference attack", "In-context learning", "RAG"]
     }
   ],
   "projects": [
