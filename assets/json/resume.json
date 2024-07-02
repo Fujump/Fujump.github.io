@@ -24,13 +24,18 @@
   },
   "Research Experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Vulnerability Disparity Against MIA",
+      "position": "Independent Research",
+      "startDate": "Jul 2023",
+      "endDate": "Mar 2024",
+      "summary": "Find an efficient way to distinguish instances with different levels of vulnerability in MIA scenarios; Try some relief methods, including reweight, kde-flattening, etc."
+    },
+    {
+      "name": "Top-k ICL for Content Risk Control",
+      "position": "Research Assistant",
+      "startDate": "Mar 2024",
+      "endDate": "Present",
+      "summary": "Implement ICL for Content Risk Control; Establish a benchmark for large model risk control in domestic scenarios, including building data sets with crawlers (from Twitter etc). "
     }
   ],
   "volunteer": [
@@ -38,7 +43,6 @@
       "organization": "Shenzhen Volunteer",
       "location": "ShenZhen, China",
       "position": "Volunteer",
-      "url": "https://example.com",
       "startDate": "2021-09-01",
       "endDate": "present",
       "summary": "The accumulated of the Shenzhen volunteer is more than 110h, and the service content includes assisting in various competitions, conferences, training, public welfare activities, etc"
@@ -49,8 +53,8 @@
       "institution": "Southern University of Science and Technology, ShenZhen, China",
       "location": "ShenZhen, China",
       "url": "https://www.sustech.edu.cn/",
-      "area": "Software Development",
-      "studyType": "BS in Data Science",
+      "area": "Data Science and Big Data Technology",
+      "studyType": "Bachelor of Science",
       "startDate": "2021-09-01",
       "endDate": "2025-06-30",
       "GPA": "3.93/4",
@@ -101,7 +105,7 @@
     },
     {
       "language": "English",
-      "fluency": "High-Intermediate",
+      "fluency": "High-Intermediate(TOEFL iBT 85)",
       "icon": ""
     }
   ],
@@ -109,17 +113,7 @@
     {
       "name": "ML, LLMs",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Trustworthy AI", "Efficient AI", "Membership inference attack", "In-context learning", "RAG"]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "keywords": ["Trustworthy AI", "Efficient AI", "Membership inference attack", "In-context learning", "RAG etc."]
     }
   ]
 }
