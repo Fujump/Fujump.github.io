@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: project 1
 description: with background image
@@ -6,7 +6,7 @@ img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
----
+--- -->
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
