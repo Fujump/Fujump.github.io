@@ -1,7 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: "Airbnb: The Sydney Story"
+description: Final project of SAS(statistical data analysis)
+nav: false
 img: assets/img/3.jpg
 importance: 2
 category: work
