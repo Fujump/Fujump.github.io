@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How Controlled Features in Random Fourier
-Features Perform
+title: Random Fourier
+Features
 description: Final project for AI
 img: assets/img/4.jpg
 importance: 1
