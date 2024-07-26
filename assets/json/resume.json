@@ -38,14 +38,11 @@
       "summary": "Implement ICL for Content Risk Control; Establish a benchmark for large model risk control in domestic scenarios, including building data sets with crawlers (from Twitter etc). "
     }
   ],
-  "volunteer": [
+  "interests": [
     {
-      "organization": "Shenzhen Volunteer",
-      "location": "ShenZhen, China",
-      "position": "Volunteer",
-      "startDate": "2021-09-01",
-      "endDate": "present",
-      "summary": "The accumulated of the Shenzhen volunteer is more than 110h, and the service content includes assisting in various competitions, conferences, training, public welfare activities, etc"
+      "name": "Trustworthy AI, Efficient AI, LLMs",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Membership inference attack", "In-context learning", "RAG etc."]
     }
   ],
   "education": [
@@ -109,11 +106,14 @@
       "icon": ""
     }
   ],
-  "interests": [
+  "volunteer": [
     {
-      "name": "ML, LLMs",
-      "icon": "fa-solid fa-tag",
-      "keywords": ["Trustworthy AI", "Efficient AI", "Membership inference attack", "In-context learning", "RAG etc."]
+      "organization": "Shenzhen Volunteer",
+      "location": "ShenZhen, China",
+      "position": "Volunteer",
+      "startDate": "2021-09-01",
+      "endDate": "present",
+      "summary": "The accumulated of the Shenzhen volunteer is more than 110h, and the service content includes assisting in various competitions, conferences, training, public welfare activities, etc"
     }
   ]
 }
