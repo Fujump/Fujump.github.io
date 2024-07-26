@@ -5,7 +5,7 @@ description: Final project of SAS(statistical data analysis)
 nav: false
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: course projects
 giscus_comments: true
 ---
 

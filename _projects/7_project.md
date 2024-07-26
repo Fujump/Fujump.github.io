@@ -5,7 +5,7 @@ Features Perform
 description: Final project for AI
 img: assets/img/4.jpg
 importance: 1
-category: work
+category: course projects
 related_publications: true
 ---
 
