@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Random Fourier
-Features
+title: Random Fourier Features
 description: Final project for AI
-img: assets/img/4.jpg
+img:
 importance: 1
 category: course projects
 related_publications: true

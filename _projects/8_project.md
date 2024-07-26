@@ -2,7 +2,7 @@
 layout: page
 title: Stock Analysis with Hardoop
 description: Final project of distributed storage and parallel computing
-img: assets/img/9.jpg
+img:
 importance: 2
 category: course projects
 giscus_comments: true

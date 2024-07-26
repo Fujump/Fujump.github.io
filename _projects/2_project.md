@@ -3,7 +3,7 @@ layout: page
 title: "Airbnb: The Sydney Story"
 description: Final project of SAS(statistical data analysis)
 nav: false
-img: assets/img/3.jpg
+img:
 importance: 2
 category: course projects
 giscus_comments: true
