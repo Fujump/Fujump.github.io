@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Database for Management of SUSTC
-description: Final Project of Database
+title: Algorithm to solve Number Klotski
+description: Final Project of DSAA(data structure and algorithm analysis)
 img:
-redirect: https://fujump.github.io/assets/pdf/Database.pdf
+redirect: "https://fujump.github.io/assets/pdf/Number_Klotski.pdf"
 importance: 4
 category: course projects
 ---

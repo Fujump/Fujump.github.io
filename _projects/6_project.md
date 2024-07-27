@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Face Recognition System based on Deepface
+description: Final project of CV(computer vision)
 img:
+redirect: https://fujump.github.io/assets/pdf/CV_project.pdf
 importance: 4
-category: fun
+category: course projects
 ---
 
 Every project has a beautiful feature showcase page.

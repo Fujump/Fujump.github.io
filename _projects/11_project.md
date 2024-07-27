@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Database for Management of SUSTC
-description: Final Project of Database
+title: Yelp Analysis
+description: Final Project of Introduction to Data Science
 img:
-redirect: https://fujump.github.io/assets/pdf/Database.pdf
+redirect: "https://fujump.github.io/assets/pdf/Yelp.pdf"
 importance: 4
 category: course projects
 ---

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://fujump.github.io/assets/pdf/SAS-Airbnb.pdf
+title: Introduction and Reproduction of SVM
+description: Final project of ORO(operations research and optimization)
+img:
+redirect: https://fujump.github.io/assets/pdf/SVM.pdf
 importance: 3
-category: fun
+category: course projects
 ---
 
 Every project has a beautiful feature showcase page.
