@@ -5,7 +5,7 @@ permalink: /projects/
 description: Mainly some course projects
 nav: true
 nav_order: 3
-display_categories: [course projects]
+display_categories: [course projects, mathematical modeling]
 horizontal: false
 ---
 
