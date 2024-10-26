@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We have released [ChineseSafe V1.0](https://huggingface.co/spaces/SUSTech/ChineseSafe-Benchmark), DeepSeek-67B model(HIGH-FLYER) wins, Google 7B model is outstanding
+We have released [ChineseSafe V1.0](https://huggingface.co/spaces/SUSTech/ChineseSafe-Benchmark), DeepSeek-67B model(HIGH-FLYER) wins, Google 7B model is outstanding. [paper](https://arxiv.org/abs/2410.18491)

@@ -18,7 +18,7 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a junior undergraduate student majoring in Data Science and Big Data Technology at the Department of Statistics and Data Science, Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn/)). My current cumulative GPA ranks first in my major (1/50). My current research interest includes **Trustworthy AI**(MIA) and **LLMs**. If given the opportunity, I would also be happy to try other interesting directions.
+I am a junior undergraduate student majoring in Data Science and Big Data Technology at the Department of Statistics and Data Science, Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn/)). My current cumulative GPA ranks first in my major (1/53). My current research interest includes **Trustworthy AI**(MIA) and **LLMs**. If given the opportunity, I would also be happy to try other interesting directions.
 
 My advisor is [Bingyi Jing](https://www.sustech.edu.cn/en/faculties/jingbing-yi.html), and presently I am an intern in Professor [Hongxin Wei](https://hongxin001.github.io/)'s research group, where I conducted an independent study on MIA and participated in a corporate collaboration project on ICL. Additionally, I am actively seeking a Ph.D. position starting in the fall of 2025 (with the possibility of starting earlier, as my senior year coursework is minimal).
 
