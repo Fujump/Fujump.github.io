@@ -6,7 +6,7 @@ subtitle: BS of DS @ <a href='https://www.sustech.edu.cn/'>Southern University o
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo_huq_square.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Davis Hall, buffalo</p>
